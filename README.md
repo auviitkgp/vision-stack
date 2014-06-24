@@ -59,7 +59,6 @@ This module will house code for the validation gate task.
 
 ###vision_gui/###
 
-Testing tool. This tool can accomplish thresholding, apply multiple filters such as Median, Gaussian and Simple Blur, Drawing contours using Hough Transformations and otherwise, blob detection and filling.
+Testing tool. This tool can accomplish thresholding, apply multiple filters such as Median, Gaussian and Simple Blur, Drawing contours using the Hough Transform (Lines and Circles) and otherwise, blob detection.
 
 It then writes all the parameters currently being used to a file which may be parsed later to get the perfect parameters at runtime.
-
